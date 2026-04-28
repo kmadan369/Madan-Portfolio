@@ -23,7 +23,7 @@ export const profile: ProfileData = {
   linkedin: 'https://www.linkedin.com/in/madan-kumar-b24250a8',
   behance: 'https://www.behance.net/MadanJkumar',
   availability: 'Available for new opportunities',
-  bio: 'Senior Product Designer with 5+ years of experience driving product strategy and UX transformation across AI-powered and multi-tenant SaaS platforms. Specialized in solving complex enterprise workflow problems through structured discovery, user research, and KPI-aligned design decisions.',
+  bio: 'Senior Product Designer with 5+ years of experience driving product strategy and UX transformation across AI-powered and multi-tenant SaaS platforms',
   philosophy: 'I design for outcomes, not just outputs — every pixel is a hypothesis, every interaction is an experiment.',
   beliefs: [
     'Enterprise complexity deserves elegant simplicity',
